@@ -1,4 +1,4 @@
-# Ethical-Hacking-Tools
+# Hacker Monks Hacking Tools
 <br>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -100,7 +100,7 @@ Like many competitions, the skill level for CTFs varies between the events. Some
 
 ## Certifications
 
-[Certified Ethical Hacker | CEH Certification](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) &nbsp; <br>
+[Certified Ethical Hacker] &nbsp; <br>
 
 #### More tools and tutorials coming your way soon !!
 
